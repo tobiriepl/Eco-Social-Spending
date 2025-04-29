@@ -4,7 +4,7 @@ This is the data repository (full dataset, R script for analysis) for the manusc
 
 A few explanatory lines:
 
-data_all_absolute: all panel (2005-2019) data cleaned but unprocessed (e.g., merged)
+data_all_absolute: all panel (2005-2019) data cleaned but unprocessed (e.g., not merged or computed)
 data_all_abs: data_all_absolute for year 2019 (not used, good for overview)
 data_all_sd: standardized (z-variation) data_all_abs (not used, good for overview)
 data_pooled: panel data used for analyiss (= processed data_all_absolute)
