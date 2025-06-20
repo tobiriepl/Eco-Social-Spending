@@ -9,7 +9,7 @@ data_all_abs: data_all_absolute for year 2019 (not used, good for overview)
 data_all_sd: standardized (z-variation) data_all_abs (not used, good for overview)
 data_pooled: panel data used for analyiss (= processed data_all_absolute)
 
-17.06.25_SD_Eco-Social_Spending is the supplementary data of our analysis. it represents the data_supplementary with a slightly reformatted title page. 
-Additionally, note that duplicates of data_pooled and data_supplementary can be found in several folders as they represent  key data files of our analysis. t
+17.06.25_SD_Eco-Social_Spending is the supplementary data of our analysis. It is data_supplementary (see R scripts) with a slightly reformatted title page. 
+Additionally, note that duplicates of data_pooled and data_supplementary can be found in several folders as they represent key data files of our analysis. 
 
 if you have questions, please feel free to reach out to: riepl_tobias@phd.ceu.edu 
